@@ -1,0 +1,4 @@
+(Arbeitsgang Schruppen)
+grobarbeit seite C
+
+feinarbeit seite C
